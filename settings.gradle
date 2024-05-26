@@ -1,0 +1,3 @@
+rootProject.name = "iTVBox"
+include ':app'
+include ':player'
