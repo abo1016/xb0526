@@ -34,10 +34,10 @@ android {
 
     signingConfigs {
         config {
-            storeFile file('D:\\xyys.jks')
-            storePassword '102013'
-            keyAlias = 'xyys'
-            keyPassword '102013'
+            storeFile file('keystore.jks')
+            storePassword '20240526'
+            keyAlias = 'hp-sign'
+            keyPassword '20240526'
         }
     }
 
